@@ -1,0 +1,1488 @@
+{
+    "476": {
+        "newsArticles": [
+            {
+                "id": "4202622",
+                "title": "Autorizan a restaurantes en Miami-Dade a servir comida al aire libre",
+                "homeTitle": "",
+                "caption": "La nueva orden, que entra en efecto el miércoles 8 de julio, ha sido modificada, mientras voces piden un plan definitivo que \"acabe con el coronavirus\" ",
+                "homeCaption": "",
+                "shortTitle": "FLORIDA",
+                "idSection": "3793",
+                "format": "Nota",
+                "orden": "0300000000001",
+                "tags": "coronavirus",
+                "publicationDate": "2020-07-07T10:12:00-0400",
+                "lastModificationDate": "2020-07-07T14:16:33-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6113086,
+                        "name": "Miami Brickell area",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>En Miami Avenue, cerca de Brickell, pululan los restaurantes y terrazas.</p>",
+                        "copyright": "JESÚS HERNÁNDEZ / DLA",
+                        "publicationDate": "02062020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978281.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978282.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202622",
+                "categories": [
+                    {
+                        "id": 6111,
+                        "id_arbol": 1,
+                        "name": "Florida",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 6140,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miami-Dade"
+                    },
+                    {
+                        "id": 6116,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miami"
+                    },
+                    {
+                        "id": 8354,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "coronavirus"
+                    }
+                ]
+            },
+            {
+                "id": "4202623",
+                "title": "J Balvin lidera las nominaciones a los Premios Juventud 2020",
+                "homeTitle": "",
+                "caption": "El colombiano J Balvin encabeza las lista con 12 nominaciones, seguido por Karol G, con nueve y Bad Bunny, con ocho. La ceremonia será el 13 de agosto",
+                "homeCaption": "",
+                "shortTitle": "MÚSICA",
+                "idSection": "3788",
+                "format": "Nota",
+                "orden": "0600000000001",
+                "tags": "juventud Premios Nominados",
+                "publicationDate": "2020-07-07T10:13:00-0400",
+                "lastModificationDate": "2020-07-07T15:02:08-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6106629,
+                        "name": "Premio lo Nuestro 2020.jpg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>El cantante colombiano<strong> J Balvin</strong> encabeza la lista de nominados&nbsp;a los&nbsp;Premios Juventud 2020.&nbsp;&nbsp;</p>",
+                        "copyright": "DLA/Sureidy Rodríguez",
+                        "publicationDate": "20022020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889551.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889552.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/889/0001889557.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202623",
+                "categories": [
+                    {
+                        "id": 4942,
+                        "id_arbol": 1,
+                        "name": "Cultura",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 2,
+                        "value_core_enviroment_color": "magenta"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 6808,
+                        "id_tipo_agrupador": 5,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "J Balvin"
+                    },
+                    {
+                        "id": 8234,
+                        "id_tipo_agrupador": 5,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Karol G"
+                    },
+                    {
+                        "id": 7616,
+                        "id_tipo_agrupador": 5,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Bad Bunny"
+                    }
+                ]
+            },
+            {
+                "id": "4202624",
+                "title": "Principal autopista de Caracas colapsa por lluvias",
+                "homeTitle": "",
+                "caption": "El tránsito vehicular no se encuentra restringido sin embargo, la cantidad de agua acumulada imposibilita la movilidad por la principal arteria vial de Caracas",
+                "homeCaption": "",
+                "shortTitle": "VENEZUELA",
+                "idSection": "3788",
+                "format": "Nota",
+                "orden": "0600000000002",
+                "tags": "",
+                "publicationDate": "2020-07-07T10:13:00-0400",
+                "lastModificationDate": "2020-07-07T14:47:52-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6115003,
+                        "name": "Altamira lluvias.jpg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>Captura del video difundidio en las redes sociales.&nbsp;</p>",
+                        "copyright": "Twitter: @lagranciudad",
+                        "publicationDate": "07072020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005217.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005218.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/005/0002005224.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202624",
+                "categories": [
+                    {
+                        "id": 4963,
+                        "id_arbol": 1,
+                        "name": "América Latina",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 23,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Caracas"
+                    },
+                    {
+                        "id": 10971,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Francisco Fajardo"
+                    },
+                    {
+                        "id": 10249,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Lluvias"
+                    }
+                ]
+            },
+            {
+                "id": "4202622",
+                "title": "Autorizan a restaurantes en Miami-Dade a servir comida al aire libre",
+                "homeTitle": "",
+                "caption": "La nueva orden, que entra en efecto el miércoles 8 de julio, ha sido modificada, mientras voces piden un plan definitivo que \"acabe con el coronavirus\" ",
+                "homeCaption": "",
+                "shortTitle": "FLORIDA",
+                "idSection": "3788",
+                "format": "Nota",
+                "orden": "0600000000003",
+                "tags": "coronavirus",
+                "publicationDate": "2020-07-07T10:12:00-0400",
+                "lastModificationDate": "2020-07-07T14:16:33-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6113086,
+                        "name": "Miami Brickell area",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>En Miami Avenue, cerca de Brickell, pululan los restaurantes y terrazas.</p>",
+                        "copyright": "JESÚS HERNÁNDEZ / DLA",
+                        "publicationDate": "02062020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978281.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978282.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/978/0001978288.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202622",
+                "categories": [
+                    {
+                        "id": 6111,
+                        "id_arbol": 1,
+                        "name": "Florida",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 6140,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miami-Dade"
+                    },
+                    {
+                        "id": 6116,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miami"
+                    },
+                    {
+                        "id": 8354,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "coronavirus"
+                    }
+                ]
+            },
+            {
+                "id": "4202621",
+                "title": " FDA retira del mercado casi 19 mil botellas de gel desinfectante ",
+                "homeTitle": "",
+                "caption": "Se advierte que el uso de metanol en el gel puede ser mortal, especialmente para los niños que corren el riesgo de ingerirlo",
+                "homeCaption": "",
+                "shortTitle": "",
+                "idSection": "3788",
+                "format": "Nota",
+                "orden": "0600000000004",
+                "tags": "",
+                "publicationDate": "2020-07-07T10:04:00-0400",
+                "lastModificationDate": "2020-07-07T14:30:56-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6112740,
+                        "name": "gel desinfectante para manos Miami",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>Miami, gel desinfectante para las manos es la primera regla a cumplir.</p>",
+                        "copyright": "JESÚS HERNÁNDEZ / DLA",
+                        "publicationDate": "27052020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973059.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973060.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/973/0001973066.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202621",
+                "categories": [
+                    {
+                        "id": 4851,
+                        "id_arbol": 1,
+                        "name": "EEUU",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 6574,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Salud"
+                    },
+                    {
+                        "id": 8544,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "FDA"
+                    }
+                ]
+            },
+            {
+                "id": "4202619",
+                "title": "Tiktok suspende su aplicación en Hong Kong ",
+                "homeTitle": "",
+                "caption": "TikTok siempre negó que compartiera datos de sus usuarios con las autoridades de China y dijo que no tenía la intención de hacerlo",
+                "homeCaption": "",
+                "shortTitle": "REDES SOCIALES",
+                "idSection": "3788",
+                "format": "Nota",
+                "orden": "0600000000005",
+                "tags": "\"Redes sociales\" Facebook Twitter protestas",
+                "publicationDate": "2020-07-07T09:43:00-0400",
+                "lastModificationDate": "2020-07-07T14:41:13-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6110356,
+                        "name": "Tik tok..jpg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p> TikTok, app de videos. </p>",
+                        "copyright": "EUROPA PRESS",
+                        "publicationDate": "16042020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939773.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939774.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/939/0001939780.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202619",
+                "categories": [
+                    {
+                        "id": 440,
+                        "id_arbol": 1,
+                        "name": "Mundo",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 9363,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Hong Kong"
+                    },
+                    {
+                        "id": 8877,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "TikTok"
+                    },
+                    {
+                        "id": 6474,
+                        "id_tipo_agrupador": 7,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "China"
+                    }
+                ]
+            },
+            {
+                "id": "4202387",
+                "title": "Estos son los rostros de quienes hacen DIARIO LAS AMÉRICAS",
+                "homeTitle": "",
+                "caption": "El 4 de julio de 1953 vio la luz el primer ejemplar de DIARIO LAS AMÉRICAS. 67 años después, el periódico hispano más antiguo de la Florida se consolida",
+                "homeCaption": "",
+                "shortTitle": "",
+                "idSection": "3151",
+                "format": "Nota",
+                "orden": "1301004001001",
+                "tags": "",
+                "publicationDate": "2020-07-03T09:35:00-0400",
+                "lastModificationDate": "2020-07-03T15:15:54-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6114792,
+                        "name": "diario la americas captura video.jpg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>DIARIO LAS AM&Eacute;RICAS,aniversario 67.</p>",
+                        "copyright": "CAPTURA DE VIDEO / DLA",
+                        "publicationDate": "03072020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002253.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002254.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/002/0002002260.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202387",
+                "categories": [
+                    {
+                        "id": 6111,
+                        "id_arbol": 1,
+                        "name": "Florida",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 10707,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Aniversario 67"
+                    },
+                    {
+                        "id": 7010,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Diario Las Américas"
+                    },
+                    {
+                        "id": 6622,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Florida"
+                    }
+                ]
+            },
+            {
+                "id": "4202554",
+                "title": "El Diario en 90 segundos: Nuevo cierre de restaurantes en Miami-Dade",
+                "homeTitle": "Nuevo cierre de restaurantes en Miami-Dade",
+                "caption": "",
+                "homeCaption": "",
+                "shortTitle": "El Diario en 90 segundos",
+                "idSection": "3151",
+                "format": "Nota",
+                "orden": "1301004001002",
+                "tags": "\"El Diario en 90 segundos\" \"noticias de florida\" \"Luis Abinader\" elecciones Cuba venezuela \"alex saab\" \"cabo verde\" maduro miami \"miami dade\" Chicago",
+                "publicationDate": "2020-07-06T13:24:00-0400",
+                "lastModificationDate": "2020-07-06T17:31:03-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6114932,
+                        "name": "Captura de Pantalla 2020-07-06 a la(s) 1.28.34 p. m..png",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "",
+                        "copyright": "",
+                        "publicationDate": "06072020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004240.png",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004241.png",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/002/004/0002004247.png",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202554",
+                "categories": [
+                    {
+                        "id": 6109,
+                        "id_arbol": 1,
+                        "name": "Videos",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 7838,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "El Diario en 90 segundos"
+                    },
+                    {
+                        "id": 6140,
+                        "id_tipo_agrupador": 6,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miami-Dade"
+                    },
+                    {
+                        "id": 10931,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Noticias"
+                    }
+                ]
+            },
+            {
+                "id": "4202059",
+                "title": "La buena noticia: Hallan fósil más pequeño de un huevo de dinosaurio",
+                "homeTitle": "Hallan el fósil más pequeño de un huevo de dinosaurio",
+                "caption": "El descubrimiento permitirá para dar nuevas pistas sobre cómo los dinosaurios de menor tamaño se reproducían y anidaban",
+                "homeCaption": "",
+                "shortTitle": "",
+                "idSection": "3151",
+                "format": "Nota",
+                "orden": "1301004001003",
+                "tags": "fosil \"huevo de dinosaurio\" japon \"más pequeño\"",
+                "publicationDate": "2020-06-29T08:30:00-0400",
+                "lastModificationDate": "2020-06-29T19:42:25-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "0",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6114521,
+                        "name": "buena noticia.jpg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>El hallazgo en Jap&oacute;n del huevo f&oacute;sil de un dinosaurio destaca por ser el m&aacute;s peque&ntilde;o del que se tiene constancia en todo el mundo.</p>",
+                        "copyright": "CAPTURA DE VIDEO / DLA",
+                        "publicationDate": "29062020",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998331.jpg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998332.jpg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/998/0001998338.jpg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202059",
+                "categories": [
+                    {
+                        "id": 6109,
+                        "id_arbol": 1,
+                        "name": "Videos",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 8198,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "La buena noticia"
+                    }
+                ]
+            },
+            {
+                "id": "4202600",
+                "title": "El secreto de Lis Cuesta: un padre malversador",
+                "homeTitle": "",
+                "caption": "",
+                "homeCaption": "",
+                "shortTitle": "",
+                "idSection": "3151",
+                "format": "Nota",
+                "orden": "1301004001004",
+                "tags": "#Cuba \"Lis Cuesta\"",
+                "publicationDate": "2020-07-06T19:34:00-0400",
+                "lastModificationDate": "2020-07-07T00:05:34-0400",
+                "externalLink": "",
+                "externalLinkTarguet": "",
+                "embedVideos": "3",
+                "sections": [],
+                "thumbnails": [
+                    {
+                        "id": 6100173,
+                        "name": "Juan Juan Al medio.jpg.jpeg",
+                        "portalId": 216,
+                        "stateId": 1,
+                        "caption": "<p>Juan Juan al Medio, un programa donde se debate la realidad de Cuba, en Diario Las Américas.</p>",
+                        "copyright": "DLA",
+                        "publicationDate": "04112019",
+                        "mediaLanguage": {
+                            "text2": "",
+                            "text3": "",
+                            "text4": ""
+                        },
+                        "type": {
+                            "id": 1,
+                            "name": "Imagen",
+                            "type": "imagen"
+                        },
+                        "files": [
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 0,
+                                "height": 0,
+                                "type": "imagen",
+                                "size": "Unico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801257.jpeg",
+                                "width": 350,
+                                "height": 197,
+                                "type": "imagen",
+                                "size": "Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801258.jpeg",
+                                "width": 790,
+                                "height": 444,
+                                "type": "imagen",
+                                "size": "Mediano"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 970,
+                                "height": 546,
+                                "type": "imagen",
+                                "size": "Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 210,
+                                "height": 118,
+                                "type": "imagen",
+                                "size": "Apertura Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 285,
+                                "height": 160,
+                                "type": "imagen",
+                                "size": "Destacada Chica"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 575,
+                                "height": 324,
+                                "type": "imagen",
+                                "size": "Apertura Medio"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 770,
+                                "height": 770,
+                                "type": "imagen",
+                                "size": "Libre"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 123,
+                                "height": 69,
+                                "type": "imagen",
+                                "size": "Muy Chico"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 1170,
+                                "height": 658,
+                                "type": "imagen",
+                                "size": "Muy Grande"
+                            },
+                            {
+                                "url": "https://media.diariolasamericas.com/adjuntos/216/imagenes/001/801/0001801264.jpeg",
+                                "width": 620,
+                                "height": 349,
+                                "type": "imagen",
+                                "size": "Destacada Mediana"
+                            }
+                        ]
+                    }
+                ],
+                "mediaObjectCount": "1",
+                "shortUrl": "https://www.diariolasamericas.com/c4202600",
+                "categories": [
+                    {
+                        "id": 6109,
+                        "id_arbol": 1,
+                        "name": "Videos",
+                        "id_root": "1",
+                        "id_core_enviroment_color": 1,
+                        "value_core_enviroment_color": "azul"
+                    }
+                ],
+                "groups": [
+                    {
+                        "id": 7966,
+                        "id_tipo_agrupador": 4,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Juan Juan al medio"
+                    },
+                    {
+                        "id": 6112,
+                        "id_tipo_agrupador": 7,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Cuba"
+                    },
+                    {
+                        "id": 8086,
+                        "id_tipo_agrupador": 5,
+                        "id_c_m_s_portal": 216,
+                        "descripcion": "Miguel Díaz-Canel"
+                    }
+                ]
+            }
+        ]
+    }
+}
